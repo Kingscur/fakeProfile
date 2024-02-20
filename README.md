@@ -3,7 +3,7 @@
   <h1><strong>fakeProfile</strong></h1>
 </div>
 <p align="center">
-  A most plugin about <strong>all in one</strong> profile plugin for <a href="https://vencord.dev/"><strong>Vencord</strong></a>
+  An <a href="https://vencord.dev/"><strong>all-in-one Vencord</strong></a> plugin to customize your Discord profile
 </p>
 
 
